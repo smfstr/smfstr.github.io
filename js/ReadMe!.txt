@@ -1,0 +1,1 @@
+These two javascripts, in the subsection folder 'js' are the one's needed for the navbar. All JavaScript files inside 'New folder' are either copied & pasted, not working files, or trials from online which I scrapped.
